@@ -1,2 +1,2 @@
 # the-toolbox
-A-Z Python, Machine Learning and Deep Learning
+Absolutely everything and anything, all at once
